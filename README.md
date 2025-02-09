@@ -60,7 +60,7 @@ class Vikash {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash032002&&show_icons=true&theme=gotham" alt="Vikash GitHub Stats" />
 </a>
 <a href="https://github.com/vikash032002/vikash032002">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikash032002&show_icons=true&theme=gotham" alt="Vikash's GitHub Stats">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vikash032002&theme=gotham" alt="Vikash's GitHub Stats">
 </a>
 <a href="https://github.com/vikash032002/vikash032002">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash032002&show_icons=true&theme=gotham" alt="Vikash's GitHub Stats">
